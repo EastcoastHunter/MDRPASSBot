@@ -1,0 +1,10 @@
+{
+    "token": "BOTTOKENHERE",
+    "gallery_url": "https://images-ext-2.discordapp.net/external/DJrjhgB_sR5pF9Pi4lsu0L6sjV35a65DqZLOWl4NBNo/https/www.latimes.com/resizer/A4LM4IKdnIGcAHKMH4zzkLwrgzo%3D/1200x0/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/RZLL7HPIVZCGXAE5VKDTCHIB24.jpg?width=441&height=248",
+    "disconnect_msgs": [
+        "Bye bye, have a beautiful time!",
+        ":wave:",
+	"Please Notify The Developer About the bot being shutdown so he can restart it manually"
+    ],
+    "default_channel_id": ""
+}
