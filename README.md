@@ -14,3 +14,11 @@ The bot Expects a file named `config.json` in its working directory. The file sh
     "default_channel_id": "Your Default channel ID"
 }
 ```
+<html>
+    <header>
+        <title> MDRPBot Readme.md</title>
+    </header>
+    <body>
+        <p>This Discord bot uses python only and will not us anything else!<br> Also Once you have ran the `git clone https://github.com/OwnerHunter/MDRPASSBot` please run `python3 -m pip install -U -r requirements.txt</p>
+    </body>
+</html>
