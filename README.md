@@ -1,6 +1,4 @@
-<img src="copcar.png" align="center" style="width=100%;" />
-
-# ModernDayRolePlayAnd ServerSolutions Free Code [![ModernDayRolePlayAnd Server Solutions Discord python bot code](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://discordapp.com/invite/J7qXTMP)
+# HuntersModBot [![ModernDayRolePlayAnd Server Solutions Discord python bot code](https://discordapp.com/invite/J7qXTMP)]
 > Modern Day Role Play And Server Solutions GitHub Provided Bot.
 
 ## INSTALL PROCESS
@@ -28,11 +26,9 @@ The bot Expects a file named `config.json` in its working directory. The file sh
 - [Our-Discord](https://discordapp.com/invite/J7qXTMP) - Join our discord server to give us feed back on our products and if there are any issues on any of our products.
 - [Official-Website](https://sites.google.com/view/moderndayrpand-serversolutions) -This is our Official Website For ModernDayRolePlay&ServerSolutions 
 
+## Invite the bot! And Upvote!
+
+[![Bots for Discord](https://botsfordiscord.com/api/bot/491367462193987594/widget)](https://botsfordiscord.com/bots/491367462193987594)
+
 ## Contribute
-You Can Contribute by donating to our patreon account and or buy.
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Owner Hunter](http://mts.io) has waived all copyright and related or neighboring rights to this work.
+[Our Discord(https://discordapp.com/invite/J7qXTMP)]
