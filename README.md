@@ -1,5 +1,5 @@
-# HuntersModBot [![ModernDayRolePlayAnd Server Solutions Discord python bot code](https://discordapp.com/invite/J7qXTMP)]
-> Modern Day Role Play And Server Solutions GitHub Provided Bot.
+# HuntersModBot 
+> HuntersModBot GitHub Provided Bot.
 
 ## INSTALL PROCESS
 -[If you Need Help](https://discordapp.com/invite/J7qXTMP) -First do ```python
